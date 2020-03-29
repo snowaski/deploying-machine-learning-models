@@ -6,4 +6,4 @@ marshmallow==2.17.0
 
 # local regression_model package
 # update with your local path
--e "C:\Users\chris\repos\deploying-machine-learning-models\packages\regression_model"
+-e "/home/snowaski/Workspace/Udemy/Deployment_of_ML_Models/deploying-machine-learning-models/packages/regression_model"
