@@ -112,8 +112,8 @@ jobs:
       - run:
           name: Deploy to Heroku
           command: |
-            git checkout -b new-branch
-            git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git new-branch:master
+            git checkout -b jdiawodj
+            git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git jdiawodj:master
 
 workflows:
   version: 2
